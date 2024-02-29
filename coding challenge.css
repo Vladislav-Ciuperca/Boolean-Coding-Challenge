@@ -54,6 +54,7 @@
  #carica1,#carica2,#carica3{
     height: 30px;
     border-radius: 5px;
+    /* gialosai 2 */
     }
 
  #carica1{
@@ -69,4 +70,5 @@
  #carica3{
     background-color: rgb(245, 3, 48);
     width: 16%;
+    /* gialosai 1 */
     }
